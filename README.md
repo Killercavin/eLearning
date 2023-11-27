@@ -46,5 +46,5 @@ Note! Database you will have to setup and configure by yourself
 Clone the repo
 
    ```sh
-   git clone https://github.com/Killercavin/eLearning.git or got clone git@github.com:Killercavin/eLearning.git
+   git clone https://github.com/Killercavin/eLearning.git or git clone git@github.com:Killercavin/eLearning.git
 
