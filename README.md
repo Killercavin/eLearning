@@ -31,7 +31,7 @@ You can also use any other webserver of your choice.
 
 ### Installation
 
-1. Install your favourite server ie Xampp etc
+Install your favourite server ie Xampp etc
 
 If on Xampp the you will clone the project on a folder/ directory named ./htdocs in the xampp directory... Please check for the official documentation for all the setups and guide on [XAMPP](https://apachefriends.org) 
 
@@ -39,15 +39,12 @@ If on Xampp the you will clone the project on a folder/ directory named ./htdocs
 If on WAMP, MAMP or LAMP the you will clone the project on a folder/ directory named ./www in the xampp directory... Please check for the official documentation for all the setups and guide on their respective dormains
 
 
-2.  Clone the repo
+Open the project files via localhost or ip 127.0.0.1
+
+Note! Database you will have to setup and configure by yourself
+
+Clone the repo
 
    ```sh
-   git clone https://github.com/Killercavin/eLearning.git 
-
-
-
-
-3. Open the project files via localhost or ip 127.0.0.1
-
-4. Database you will have to setup and configure by yourself
+   git clone https://github.com/Killercavin/eLearning.git or got clone git@github.com:Killercavin/eLearning.git
 
